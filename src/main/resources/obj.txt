@@ -1,0 +1,4 @@
+a=java.util.Date
+b=javax.swing.JPanel
+c=javax.swing.JFrame
+c%setTitle=My windows
